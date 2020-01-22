@@ -1,0 +1,88 @@
+TMAAS:
+0 255
+Mrs. Emily Agnes Inglethorp
+1 3
+aaa
+1 11
+Hercule Poirot
+2 31
+aaa
+2 49
+John Cavendish
+4 68
+aaa
+4 103
+Mr. Alfred Inglethorp
+5 22
+Mr. Lawrence Cavendish
+7 16
+aaa
+7 42
+Cynthia Murdoch
+9 12
+Evelyn Howard
+19 69
+Mr. Hastings
+end
+10
+
+
+ASIS:
+
+0 24
+Sherlock Holmes
+1 86
+Jefferson Hope
+2 327
+John Ferrier
+5 26
+enoch
+5 28
+enoch
+5 326
+Joseph Stangerson
+7 8
+enoch
+7 41
+enoch
+7 59
+Enoch J. Drebber
+12 301
+Doctor Watson
+14 89
+Madame Charpentier
+end
+8
+
+
+TCS:
+
+
+7 8
+Mr. John Bailey
+0 16
+Halsey Innes
+4 44
+a
+4 97
+Louise Armstrong
+6 66
+Mr. Arnold Armstrong
+14 17
+Anne Watson
+7 124
+Mr. John Bailey
+29 42
+a
+29 75
+a
+29 93
+a
+29 171
+a
+29 50
+Rachel Innes
+7 9
+Mr. John Bailey
+end
+8
