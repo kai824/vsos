@@ -16,7 +16,7 @@ First, input the name of text file (story). By default, it assumes encoding of t
 
 It will take a few minutes to generate list of characters, depending on length of text file. When done, combine the characters which seem to refer to the same character.
 
-A sample input is as follows:
+A sample input is as follows:(Or you could copy the input from input.txt)
 
 0 8 11 14 31
 Hercule Poirot
