@@ -6,9 +6,6 @@ planarity
 networkx (to go with planarity)
 nltk
 
-To setup nltk after downloading, run:
-import nltk
-nltk.download('all')
 
 Usage:
 
