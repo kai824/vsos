@@ -1,6 +1,9 @@
-Run network_drawing.py for main code, written in python 3.
+Main file is network_drawing.py for main code, written in python 3.
+
+NOTE: the scripts are provided as is and without warranty
 
 Libraries needed:
+
 matplotlib
 planarity
 networkx (to go with planarity)
