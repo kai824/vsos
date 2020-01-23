@@ -12,9 +12,17 @@ nltk.download('all')
 
 Usage:
 
-First, input the name of text file (story). By default, it assumes encoding of text file to be utf-8. If not, please amend it on line 9. 
+1. Input the name of text file (story). By default, it assumes encoding of text file to be utf-8. If not, please amend it on line 9. 
 
-It will take a few minutes to generate list of characters, depending on length of text file. When done, combine the characters which seem to refer to the same character.
+It will take a few minutes to generate list of characters, depending on length of text file. 
+
+2. When done, combine the characters which seem to refer to the same character.
+
+Input format:
+<list of indexes that refer to the character>
+<Desired name of character>
+...
+end
 
 A sample input is as follows:(Or you could copy the input from input.txt)
 
@@ -34,4 +42,6 @@ Jeanne Beroldy
 M. Hautet
 end
 
-Afterwards, try to find a sharp drop in the graph, and count the number of characters before the drop, which is used by the programme. Note that the characters are 0-indexed.
+3. Afterwards, try to find a sharp drop in the graph that will show, and count the number of characters before the drop, which is used by the programme. Note that the characters are 0-indexed.
+
+4. When the programme is done, the output file will be on "network_drawing_output.gexf" and "network_drawing_output_pmfg.gexf"(after running the planar maximally filtered algorithm) in the same directory. Open this file with gephi software to visualise the network. 
